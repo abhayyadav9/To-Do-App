@@ -1,3 +1,6 @@
+# to activate run   .venv\Scripts\activate.ps1   and python ./app.py
+
+
 from flask import Flask, render_template,request,redirect
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
